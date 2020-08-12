@@ -1,2 +1,4 @@
 # Adaptive_noise_cancellation
-The algorithm is designed to denoise the effect of environment noise and make the output more clear
+Developed a system which automatically determines the noise in the
+environment and tries to eliminate that noise from the original signal
+while playing.
